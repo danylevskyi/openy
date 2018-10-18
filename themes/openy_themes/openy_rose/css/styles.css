@@ -1867,7 +1867,7 @@ body {
 }
 
 .paragraph--type--small-banner {
-  align-items: stretch;
+  overflow: hidden;
   max-height: 250px;
 }
 .paragraph--type--small-banner .banner-image {
@@ -2319,6 +2319,7 @@ body {
 
 .paragraph--type--openy-prgf-mbrshp-calc {
   padding: 20px 0;
+  overflow: hidden;
 }
 
 .paragraph--type--classes-listing-filters {
